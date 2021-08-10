@@ -99,6 +99,7 @@ Add Webex to Pilot:
 - Using breakout rooms?
 - Office Hours?
 - TODO: hook yeti to BYOD
+- TODO: verify ceiling mic ID
 
 ## Additional Webex Control Panel info:
 - ![Panel default options](panel/panel-default.jpg)
