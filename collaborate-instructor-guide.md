@@ -3,7 +3,7 @@
 - [Setup Collaborate in Pilot](#Setup-Collaborate-in-Pilot)
 - [Setup Collaborate Sessions](#Setup-Collaborate-Sessions)
 - [Using Collaborate](#Using-Collaborate)
-- [Using Webex Control Panel (changing camera views)](#Using-Webex-Control-Panel-(changing-camera-views))
+- [Camera Settings Using Webex Control Panel](#Camera-Settings-Using-Webex-Control-Panel)
 - [Additional Webex Control Panel info](#Additional-Webex-Control-Panel-info)
 
 ## Setup Collaborate in Pilot
@@ -48,7 +48,7 @@
 - [Back to Top](#Instructor-Guide-to-Blackboard-Collaborate-Ultra)
 
 
-## Using Webex Control Panel (changing camera views)
+## Camera Settings Using Webex Control Panel
 **Note: This is for Russ 346 and 355 / any room with a Webex panel and Cisco camera in the room**
 
 1. On the desk there is a white bordered touchscreen panel.  This is the Webex control panel
