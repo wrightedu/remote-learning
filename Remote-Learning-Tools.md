@@ -37,6 +37,7 @@ Add Webex to Pilot:
 3. "Start" the meeting to launch Webex
 4. "Start meeting" once ready
 5. If using the **in room instructor station**, you should now be connected to the room microphone, Cisco control panel (we're getting there) and the in-room camera.
+    - If you want video to show for recording, you need to stop sharing content (screenshare / whiteboard / etc.)
 6. If using **your own device** (laptop), you will need to connect to the room
     - Select the "..." icon in the bottom row of icons
     - Click "Connect to a Video System"
@@ -44,6 +45,7 @@ Add Webex to Pilot:
     - A window will open where you can select which room to connect to
     - ![Webex connect to device](webex/connect-to-device.PNG)
     - You should now be connected to the room microphone, Cisco control panel (we're getting there) and the in-room camera.
+    - If you want video to show for recording, you need to stop sharing content (screenshare / whiteboard / etc.)
 7. You can choose to share your screen, which screen to share, or specific applications to share.
     - ![Webex share](webex/share-button.PNG)
 8. You can now monitor text chat within Webex.  Depending on your configuration (see additional webex info), students who attend remotely can unmute their microphones and ask questions over the in-room speakers.
@@ -62,10 +64,11 @@ Add Webex to Pilot:
 1. On the desk there is a white bordered touchscreen panel.  This is the Webex control panel
 2. On the upper right of the panel screen, there is a camera icon with settings symbols overlayed.
 3. To change the current camera behavior, select that button.  You have options:
+    - Presenter: enables camera to track instructor
+    - Overview: a view of the whole room
     - Whiteboard: a view tailored to the room's whiteboard
-    - [Fill with right word]: a view of the whole room
-    - [Fill with right word]: enables camera to track instructor
     - **does this reset to anything after any time period / is there a default???**
+    - **SCREENSHOT**
 
 ## Using Webex on any device
 **Note: This is for Russ 152C and Oelman Hall 320 / any room WITHOUT a Webex panel**
@@ -96,11 +99,13 @@ Add Webex to Pilot:
     - hacked - get link from wright.webex.com In Pilot, add to link and title as desired
 - Using breakout rooms?
 - Office Hours?
+- TODO: hook yeti to BYOD
 
 ## Additional Webex Control Panel info:
-- Call another room
-- Share content
-- Join another meeting?
+**SCREENSHOT**
+- Call: call another room on campus equiped with a Webex panel
+- Share screen: 
+- Join Webex: 
 
 ## Setup Collaborate in Pilot
 **Note** For best integration, we recommend Webex over Collaborate Ultra
@@ -119,10 +124,15 @@ Add Webex to Pilot:
 
 1. Open Collaborate Ultra via the Communication dropdown in Pilot
 2. In the Sessions menu, you can select the session you want to join (listed by date), then select "Join session"
-**UNTESTED**
 3. If using the **in room instructor station**, you should now be connected to the room microphone, Cisco control panel (we're getting there) and the in-room camera.
+    - Room microphone - MO-1
+    - Room camera - INOGENI (HD2USB3)
+    - Can use control panel to change camera views
+    - **MAKE SURE YOU UNMUTE AND SHARE YOUR VIDEO ONCE READY**
+    - If you want video to show for recording, you need to stop sharing content (screenshare / whiteboard / etc.)
 4. If using **your own device** (laptop), you cannot connect to the in-room Cisco equipment
-    - You only have your PC hardware (built in mic and camera)
+    - You only have your PC hardware (built in mic and camera) and any external hardware you want to add (external microphone)
+    - **MAKE SURE YOU UNMUTE AND SHARE YOUR VIDEO ONCE READY**
 5. You can choose to share your screen, which screen to share, or specific applications to share.
 6. You can now monitor text chat within Collaborate.  Depending on your configuration, students who attend remotely can unmute their microphones and ask questions.
 7. You can record your class:
