@@ -6,12 +6,14 @@
 - [Using Webex Control Panel (changing camera views)](#Using-Webex-Control-Panel)
 - [Additional Webex Control Panel info](#Additional-Webex-Control-Panel-info)
 
-
 ## Setup Collaborate in Pilot
 **Note** For best integration, we recommend Webex over Collaborate Ultra
 
 1. Select the "Communication" dropdown
 2. Select "Collaborate Ultra"
+
+- [Back to Top](#Instructor-Guide-to-Blackboard-Collaborate-Ultra)
+
 
 ## Setup Collaborate Sessions
 
@@ -19,6 +21,9 @@
 2. You can choose to setup a recurring meeting (sample in screenshot) or you can create meetings for each lecture separately
     - ![Collaborate recurring sessions](collaborate/recurring-sample.PNG)
 3. In the Sessions menu, you can select the session you want to join (listed by date), then select "Join session"
+
+- [Back to Top](#Instructor-Guide-to-Blackboard-Collaborate-Ultra)
+
 
 ## Using Collaborate
 
@@ -40,6 +45,9 @@
     - To stop the recording, in the upper left panel, click "Stop Recording"
 8. When done with your session, open the upper left panel, then in the bottom left select "Leave Session"
 
+- [Back to Top](#Instructor-Guide-to-Blackboard-Collaborate-Ultra)
+
+
 ## Using Webex Control Panel (changing camera views)
 **Note: This is for Russ 346 and 355 / any room with a Webex panel and Cisco camera in the room**
 
@@ -52,9 +60,14 @@
     - **does this reset to anything after any time period / is there a default???**
     - ![Panel camera choices](panel/camera-choices.jpg)
 
+- [Back to Top](#Instructor-Guide-to-Blackboard-Collaborate-Ultra)
+
+
 ## Additional Webex Control Panel info
 - ![Panel default options](panel/panel-default.jpg)
 - Call: call another room on campus equiped with a Webex panel
 - Share screen: share content to projector via the panel
 - Join Webex: Join webex meeting using meeting number or personal room ID
 - To show these options (once selected) on projector, on projector control panel, select "See Far Site"
+
+- [Back to Top](#Instructor-Guide-to-Blackboard-Collaborate-Ultra)
