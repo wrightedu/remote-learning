@@ -68,7 +68,7 @@ Add Webex to Pilot:
     - Overview: a view of the whole room
     - Whiteboard: a view tailored to the room's whiteboard
     - **does this reset to anything after any time period / is there a default???**
-    - **SCREENSHOT**
+    - ![Panel camera choices](panel/camera-choices.jpg)
 
 ## Using Webex on any device
 **Note: This is for Russ 152C and Oelman Hall 320 / any room WITHOUT a Webex panel**
@@ -87,7 +87,6 @@ Add Webex to Pilot:
 8. When done with your session, select the red X and "End Meeting"
     - If students are still in the session, you can optionally "Leave Meeting" - you will leave, but the session remains on for those joined
 
-
 ## Additional Webex info:
 
 - Disable participant leave / join dings
@@ -95,17 +94,18 @@ Add Webex to Pilot:
 - [wright.webex.com](wright.webex.com): once logged in, you have access to a personal room, and can view meetings you have created or been invited to in webex (anything using your wright.edu account)
 - Changing recording names
     - legit - go through wright.webex.com - can cause time delays?  Haven't tested in a while
-    - Test in progress 8/9 - changed "test" to "hello?" - need to monitor Recordings
+    - Test in progress 8/9 - changed "test" to "hello?" - need to monitor Recordings - showed.  Unknown time consequences
     - hacked - get link from wright.webex.com In Pilot, add to link and title as desired
 - Using breakout rooms?
 - Office Hours?
 - TODO: hook yeti to BYOD
 
 ## Additional Webex Control Panel info:
-**SCREENSHOT**
+- ![Panel default options](panel/panel-default.jpg)
 - Call: call another room on campus equiped with a Webex panel
-- Share screen: 
-- Join Webex: 
+- Share screen: share content to projector via the panel
+- Join Webex: Join webex meeting using meeting number or personal room ID
+- To show these options (once selected) on projector, on projector control panel, select "See Far Site"
 
 ## Setup Collaborate in Pilot
 **Note** For best integration, we recommend Webex over Collaborate Ultra
@@ -125,7 +125,7 @@ Add Webex to Pilot:
 1. Open Collaborate Ultra via the Communication dropdown in Pilot
 2. In the Sessions menu, you can select the session you want to join (listed by date), then select "Join session"
 3. If using the **in room instructor station**, you should now be connected to the room microphone, Cisco control panel (we're getting there) and the in-room camera.
-    - Room microphone - MO-1
+    - Room microphone - MO-1 **NEEDS VERIFICATION**
     - Room camera - INOGENI (HD2USB3)
     - Can use control panel to change camera views
     - **MAKE SURE YOU UNMUTE AND SHARE YOUR VIDEO ONCE READY**
