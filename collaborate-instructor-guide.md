@@ -3,7 +3,7 @@
 - [Setup Collaborate in Pilot](#Setup-Collaborate-in-Pilot)
 - [Setup Collaborate Sessions](#Setup-Collaborate-Sessions)
 - [Using Collaborate](#Using-Collaborate)
-- [Using Webex Control Panel (changing camera views)](#Using-Webex-Control-Panel)
+- [Using Webex Control Panel (changing camera views)](#Using-Webex-Control-Panel-(changing-camera-views))
 - [Additional Webex Control Panel info](#Additional-Webex-Control-Panel-info)
 
 ## Setup Collaborate in Pilot
