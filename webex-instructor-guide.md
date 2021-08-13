@@ -7,7 +7,7 @@
 - [Useful settings during Webex meetings](#Useful-settings-during-Webex-meetings)
 - [Camera Settings Using Webex Control Panel](#Camera-Settings-Using-Webex-Control-Panel)
 - [Additional Webex Control Panel info](#Additional-Webex-Control-Panel-info)
-- [Breakout rooms](#Breakout-rooms)
+- [Breakout Rooms](#Breakout-Rooms)
 - [Polling](#Polling)
 - [Office Hours](#Office-Hours)
 - [Additional Webex info](#Additional-Webex-info)
