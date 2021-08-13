@@ -4,6 +4,7 @@
 - [Setup Webex Sessions](#Setup-Webex-Sessions)
 - [Using Webex with in-room equipment](#Using-Webex-with-in-room-equipment)
 - [Using Webex on any device](#Using-Webex-on-any-device)
+- [Useful settings during Webex meetings](#Useful-settings-during-Webex-meetings)
 - [Camera Settings Using Webex Control Panel](#Camera-Settings-Using-Webex-Control-Panel)
 - [Additional Webex info](#Additional-Webex-info)
 - [Additional Webex Control Panel info](#Additional-Webex-Control-Panel-info)
@@ -105,10 +106,24 @@ Add Webex to Pilot:
 
 - [Back to Top](#Instructor-Guide-to-Webex)
 
-## Additional Webex info
+## Useful settings during Webex meetings
 
 - Disable participant leave / join dings
+    - Once session has started, go to the "Paricipant" menu
+    - Click "Entry and Exit Tone" to turn off ding sounds as students come and go
 - Mute students on join
+    - Once session has started, go to the "Participant" menu
+    - Click "Mute on Entry" to have students join with there microphones muted by default
+- Control student microphone usage
+    - Once session has started, go to the "Participant" menu
+    - Here you can choose to "Mute All", "Unmute All", and "Allow Attendees to Unmute Themselves"
+
+- [Back to Top](#Instructor-Guide-to-Webex)
+
+## Additional Webex info
+
+
+## Breakout Rooms
 - [wright.webex.com](wright.webex.com): once logged in, you have access to a personal room, and can view meetings you have created or been invited to in webex (anything using your wright.edu account)
 - Changing recording names
     - legit - go through wright.webex.com - can cause time delays?  Haven't tested in a while
