@@ -6,8 +6,10 @@
 - [Using Webex on any device](#Using-Webex-on-any-device)
 - [Useful settings during Webex meetings](#Useful-settings-during-Webex-meetings)
 - [Camera Settings Using Webex Control Panel](#Camera-Settings-Using-Webex-Control-Panel)
-- [Additional Webex info](#Additional-Webex-info)
 - [Additional Webex Control Panel info](#Additional-Webex-Control-Panel-info)
+- [Additional Webex info](#Additional-Webex-info)
+- [Breakout rooms](#Breakout-rooms)
+- [Office Hours](#Office-Hours)
 
 ## Adding Webex to Pilot
 
@@ -120,22 +122,6 @@ Add Webex to Pilot:
 
 - [Back to Top](#Instructor-Guide-to-Webex)
 
-## Additional Webex info
-
-
-## Breakout Rooms
-- [wright.webex.com](wright.webex.com): once logged in, you have access to a personal room, and can view meetings you have created or been invited to in webex (anything using your wright.edu account)
-- Changing recording names
-    - legit - go through wright.webex.com - can cause time delays?  Haven't tested in a while
-    - Test in progress 8/9 - changed "test" to "hello?" - need to monitor Recordings - showed.  Unknown time consequences
-    - hacked - get link from wright.webex.com In Pilot, add to link and title as desired
-- Using breakout rooms?
-- Office Hours?
-- TODO: hook yeti to BYOD
-- TODO: verify ceiling mic ID
-
-- [Back to Top](#Instructor-Guide-to-Webex)
-
 ## Additional Webex Control Panel info
 - ![Panel default options](panel/panel-default.jpg)
 - Call: call another room on campus equiped with a Webex panel
@@ -144,4 +130,30 @@ Add Webex to Pilot:
 - To show these options (once selected) on projector, on projector control panel, select "See Far Site"
 
 - [Back to Top](#Instructor-Guide-to-Webex)
+
+## Additional Webex info
+- [wright.webex.com](wright.webex.com): once logged in, you have access to a personal room, and can view meetings you have created or been invited to in webex (anything using your wright.edu account)
+- Changing recording names
+    - legit - go through wright.webex.com - can cause time delays?  Haven't tested in a while
+    - Test in progress 8/9 - changed "test" to "hello?" - need to monitor Recordings - showed.  Unknown time consequences
+    - hacked - get link from wright.webex.com In Pilot, add to link and title as desired
+
+- [Back to Top](#Instructor-Guide-to-Webex)
+
+## Breakout Rooms
+
+- [Back to Top](#Instructor-Guide-to-Webex)
+
+## Office Hours
+
+
+- [Back to Top](#Instructor-Guide-to-Webex)
+
+## TODOS:
+- TODO: hook yeti to BYOD
+- TODO: verify ceiling mic ID
+
+- [Back to Top](#Instructor-Guide-to-Webex)
+
+
 
