@@ -9,6 +9,7 @@
 - [Additional Webex Control Panel info](#Additional-Webex-Control-Panel-info)
 - [Additional Webex info](#Additional-Webex-info)
 - [Breakout rooms](#Breakout-rooms)
+- [Polling](#Polling)
 - [Office Hours](#Office-Hours)
 
 ## Adding Webex to Pilot
@@ -154,6 +155,30 @@ Add Webex to Pilot:
     - Alternatively, click "Breakout sessions" in the menu bar then select "End All Breakout Sessions"
 
 - [Back to Top](#Instructor-Guide-to-Webex)
+
+## Polling
+
+- As of this writing (8/13/2021), to use polling you need to add it during your session
+- In the session menu, select "View", "Panels", "Manage Panels"
+- In the window that appears, select "Polling", then select "Add >" , then select "OK"
+    - [Resource from Webex](https://help.webex.com/en-us/n0pdj9x/Start-a-Poll-in-Webex-Meetings#task_6531E05B157C77BEEFF02E329A98FC3D)
+- In the Polling window, you can create and deploy multiple choice or short answer questions
+- ![webex polling - create poll](webex/polling.PNG)
+- Select your question type, then select "New"
+- Your cursor will be above in "Poll questions"
+    - Write your question, then hit enter
+    - Write each possible response - hit enter after each response choice
+    - Hit escape to stop typing
+- Select "Open Poll" at the bottom to deploy your question
+- ![webex polling deployed](webex/polling-deployed.PNG)
+- You can see the results as a percentage or a bar chart
+- You can stop the poll by selecting "Close Poll"
+- You can save poll questions and responses
+    - I recommend saving common questions, like "Are you following?  Yes / No"
+- You can import polling questions (if you saved them) by clicking the "Open" folder icon in the Poll menu
+
+- [Back to Top](#Instructor-Guide-to-Webex)
+
 
 ## Office Hours
 
