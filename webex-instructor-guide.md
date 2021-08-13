@@ -141,6 +141,17 @@ Add Webex to Pilot:
 - [Back to Top](#Instructor-Guide-to-Webex)
 
 ## Breakout Rooms
+- Once the meeting has started, select the "..." icon in the bottom row of icons
+- Click the toggle to "Enable Breakout Session" - enabling breakout sessions will open a settings window
+- ![Webex breakout session settings](webex/breakout-options.PNG)
+- Webex can auto break students out into the number of groups you specify
+    - You can choose to manually asign users to a session
+    - You can choose to let student select the session they want to join
+- Once you have selected your breakout room configuration, a new window will display
+    - From here you can control your sessions by broadcasting messages to all sessions, joining sessions, and setting session time
+    - ![Webex breakout control](webex/breakout-menu.PNG)
+- To **end** the breakout sessions, either use the session control menu to select the red "End all breakout sessions" button
+    - Alternatively, click "Breakout sessions" in the menu bar then select "End All Breakout Sessions"
 
 - [Back to Top](#Instructor-Guide-to-Webex)
 
