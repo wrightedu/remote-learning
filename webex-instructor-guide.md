@@ -7,10 +7,11 @@
 - [Useful settings during Webex meetings](#Useful-settings-during-Webex-meetings)
 - [Camera Settings Using Webex Control Panel](#Camera-Settings-Using-Webex-Control-Panel)
 - [Additional Webex Control Panel info](#Additional-Webex-Control-Panel-info)
-- [Additional Webex info](#Additional-Webex-info)
 - [Breakout rooms](#Breakout-rooms)
 - [Polling](#Polling)
 - [Office Hours](#Office-Hours)
+- [Additional Webex info](#Additional-Webex-info)
+
 
 ## Adding Webex to Pilot
 
@@ -132,15 +133,6 @@ Add Webex to Pilot:
 
 - [Back to Top](#Instructor-Guide-to-Webex)
 
-## Additional Webex info
-- [wright.webex.com](wright.webex.com): once logged in, you have access to a personal room, and can view meetings you have created or been invited to in webex (anything using your wright.edu account)
-- Changing recording names
-    - legit - go through wright.webex.com - can cause time delays?  Haven't tested in a while
-    - Test in progress 8/9 - changed "test" to "hello?" - need to monitor Recordings - showed.  Unknown time consequences
-    - hacked - get link from wright.webex.com In Pilot, add to link and title as desired
-
-- [Back to Top](#Instructor-Guide-to-Webex)
-
 ## Breakout Rooms
 - Once the meeting has started, select the "..." icon in the bottom row of icons
 - Click the toggle to "Enable Breakout Session" - enabling breakout sessions will open a settings window
@@ -181,7 +173,30 @@ Add Webex to Pilot:
 
 
 ## Office Hours
+**This section is for the Office Hours tool via Webex.  You can still set up other methods, like using your personal Webex room**
 
+- Office Hours via Pilot + Webex allow for you to create windows of your availability - students can then pick a time that works for them within your selected window
+    - If you are familar with "whenisgood" or "youcanbookme" this feature is very similar to how those platforms operate
+- To enable Office Hours, select the "Setup" tab 
+    - Under "Choose your features", **check "Office Hours"**, then select "Apply"
+- Select the Office Hours tab
+- Select your hours of availability (this is for all weeks)
+- Select meeting duration (30 minutes by default)
+- Select default buffer time (if any) you would like between meetings
+- ![Sample Office Hours view](webex/office-hours-sample.PNG)
+- **Click Save** at the bottom once you are finished with your selections
+- Students will see your available time slots only, can select a time, and can select "Confirm Meeting" to reserve the time slot
+- Select "View My Meetings in Webex"
+    - This will take you to the Webex portal, where you can join meetings with students who have reserved time slots.
+
+- [Back to Top](#Instructor-Guide-to-Webex)
+
+## Additional Webex info
+- [wright.webex.com](wright.webex.com): once logged in, you have access to a personal room, and can view meetings you have created or been invited to in webex (anything using your wright.edu account)
+- Changing recording names
+    - legit - go through wright.webex.com - can cause time delays?  Haven't tested in a while
+    - Test in progress 8/9 - changed "test" to "hello?" - need to monitor Recordings - showed.  Unknown time consequences
+    - hacked - get link from wright.webex.com In Pilot, add to link and title as desired
 
 - [Back to Top](#Instructor-Guide-to-Webex)
 
