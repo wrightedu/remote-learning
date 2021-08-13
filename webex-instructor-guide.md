@@ -203,6 +203,7 @@ Add Webex to Pilot:
 ## TODOS:
 - TODO: hook yeti to BYOD
 - TODO: verify ceiling mic ID
+- TODO: check what students do after reserving a time in Office Hours
 
 - [Back to Top](#Instructor-Guide-to-Webex)
 

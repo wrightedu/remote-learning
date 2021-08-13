@@ -12,6 +12,11 @@
     2. Click on "Virtual Meetings" and click on the "Recordings" mini-tab
     3. Find the lecture you want to watch (listed by date) and select "View Recording"
     4. If you need to download the recording and cannot, please contact the faculty member
+- Reserving Office Hours
+    - Assuming faculty set up Office Hours via the Webex tool - contact your faculty member for how they will be setting up office hours
+    1. Click in to Webex
+    2. Click on "Office Hours"
+    3. Select the time from those available, then select "Confirm Meeting"
 
 ## Course is using Collaborate
 - Log in to Pilot and select the course
