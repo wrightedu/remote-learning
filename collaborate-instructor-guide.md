@@ -5,6 +5,8 @@
 - [Using Collaborate](#Using-Collaborate)
 - [Camera Settings Using Webex Control Panel](#Camera-Settings-Using-Webex-Control-Panel)
 - [Additional Webex Control Panel info](#Additional-Webex-Control-Panel-info)
+- [Breakout Sessions - Collaborate Guide](https://help.blackboard.com/Collaborate/Ultra/Moderator/Moderate_Sessions/Breakout_groups)
+- [Polling - Collaborate Guide](https://help.blackboard.com/Collaborate/Ultra/Moderator/Moderate_Sessions/Polling)
 
 ## Setup Collaborate in Pilot
 **Note** For best integration, we recommend Webex over Collaborate Ultra
