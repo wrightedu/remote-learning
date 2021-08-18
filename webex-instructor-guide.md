@@ -11,6 +11,7 @@
 - [Polling](#Polling)
 - [Office Hours](#Office-Hours)
 - [Additional Webex info](#Additional-Webex-info)
+- [TODOS](#TODOS)
 
 
 ## Adding Webex to Pilot
@@ -211,6 +212,7 @@ Add Webex to Pilot:
     - When recieving a message
     - "Play the selected sound" checkbox
     - ![Webex enable chat sounds](webex/chat-ping-enable.PNG)
+- TODO: wright.webex.com
 
 - [Back to Top](#Instructor-Guide-to-Webex)
 
