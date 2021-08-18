@@ -18,6 +18,9 @@
     2. Click on "Office Hours"
     3. Select the time from those available, then select "Confirm Meeting"
 
+- Features:
+    - TODO: magnifying glass with a plus
+
 ## Course is using Collaborate
 - Log in to Pilot and select the course
 - Select the "Communication" dropdown

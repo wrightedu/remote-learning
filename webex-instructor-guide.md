@@ -204,6 +204,13 @@ Add Webex to Pilot:
 - TODO: hook yeti to BYOD
 - TODO: verify ceiling mic ID
 - TODO: check what students do after reserving a time in Office Hours
+- TODO: add instructions for seeing class cam (confirmation)
+- TODO: turn on chat ding
+    - Edit
+    - Preferences
+    - When recieving a message
+    - "Play the selected sound" checkbox
+    - ![Webex enable chat sounds](webex/chat-ping-enable.PNG)
 
 - [Back to Top](#Instructor-Guide-to-Webex)
 
