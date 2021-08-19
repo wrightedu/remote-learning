@@ -213,6 +213,8 @@ Add Webex to Pilot:
     - "Play the selected sound" checkbox
     - ![Webex enable chat sounds](webex/chat-ping-enable.PNG)
 - TODO: wright.webex.com
+- TODO: do office hours sync across courses?
+- TODO: browser based webex capabilities (linux test)
 
 - [Back to Top](#Instructor-Guide-to-Webex)
 
