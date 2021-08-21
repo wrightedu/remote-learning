@@ -212,6 +212,8 @@ Add Webex to Pilot:
 - Students will see your available time slots only, can select a time, and can select "Confirm Meeting" to reserve the time slot
 - Select "View My Meetings in Webex"
     - This will take you to the Webex portal, where you can join meetings with students who have reserved time slots.
+- Office Hours DO span across courses where you have added Webex and selected "Office Hours" in the "Setup" options
+    - TODO: test if students see taken times across courses
 
 - [Back to Top](#Instructor-Guide-to-Webex)
 
@@ -239,6 +241,7 @@ Add Webex to Pilot:
 - TODO: add instructions for seeing class cam (confirmation)
 - TODO: wright.webex.com
 - TODO: do office hours sync across courses?
+    - They DO, so what do students see?
 - TODO: browser based webex capabilities (linux test)
 - TODO: can share screen share to breakout rooms (Zoom can)
 
