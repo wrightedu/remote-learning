@@ -119,7 +119,7 @@ Add Webex to Pilot:
 - [Back to Top](#Instructor-Guide-to-Webex)
 
 ## Using Yeti microphone
-**Note: This is for Russ 152C and Oelman Hall 320 - instructor station has microphone and boom arm**
+**Note: This is for Russ 152C and Oelman Hall 320 - instructor station has microphone and arm**
 
 - When you start your webex meeting, make sure the correct microphone input device is selected
 - Yeti should be part of the decive name

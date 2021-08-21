@@ -12,3 +12,19 @@
 ## I am a student whose course is using
 - [Webex](student-guide.md)
 - [Collaborate](student-guide.md)
+
+## CSE Software Setup Guide
+- This guide covers the minimum recommend software for CSE / CS / ITC students
+    - It does not cover every piece of software used in every course
+- https://github.com/mkijowski/wsu-cs-remote-setup
+
+## Classroom equipment
+- Department Rooms
+    - RC152c - 54, surface studio, yeti desk mic
+    - RC339 - 36, surface studio, panopto recording
+    - RC346 - 36, surface studio, cisco webex camera & mic
+    - RC355 - 36, surface studio, cisco webex camera & mic
+    - OH320 - 60, surface studio, yeti desk mic
+    - All rooms require you to click record in webex ;)
+- [Other classrooms](https://www.wright.edu/registrar/classroom-features-photos) 
+    - https://www.wright.edu/registrar/classroom-features-photos
