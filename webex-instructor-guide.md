@@ -121,6 +121,11 @@ Add Webex to Pilot:
 ## Using Yeti microphone
 **Note: This is for Russ 152C and Oelman Hall 320 - instructor station has microphone and boom arm**
 
+- When you start your webex meeting, make sure the correct microphone input device is selected
+- Yeti should be part of the decive name
+- You are allowed to disconnect the mic from the instructor station if using your own device
+    - Please plug the cable back in once your session is done
+
 - [Back to Top](#Instructor-Guide-to-Webex)
 
 ## Useful settings during Webex meetings
