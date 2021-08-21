@@ -1,3 +1,9 @@
+# Student Guide to Remote Tools Usage
+
+- [Course is using Webex](#Course-is-using-Webex)
+- [Course is using Collaborate](#Course-is-using-Collaborate)
+- [Course is using Panopto](#Course-is-using-Panopto)
+
 ## Course is using Webex
 **We recommend installing Webex the application to your machine as opposed to accessing Webex via the browser**
 - Log in to Pilot and select the course
@@ -19,7 +25,7 @@
     3. Select the time from those available, then select "Confirm Meeting"
 
 - Features:
-    - TODO: magnifying glass with a plus
+    - TODO: magnifying glass with a plus to enlarge view
 
 ## Course is using Collaborate
 - Log in to Pilot and select the course

@@ -12,6 +12,7 @@
 ## I am a student whose course is using
 - [Webex](student-guide.md)
 - [Collaborate](student-guide.md)
+- [Panopto](student-guide.md)
 
 ## CSE Software Setup Guide
 - This guide covers the minimum recommend software for CSE / CS / ITC students
