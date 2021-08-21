@@ -4,17 +4,22 @@
 - [Setup Webex Sessions](#Setup-Webex-Sessions)
 - [Using Webex with in-room equipment](#Using-Webex-with-in-room-equipment)
 - [Using Webex on any device](#Using-Webex-on-any-device)
+- [Using Yeti microphone - RC 152C & OH 320](#Using-Yeti-microphone)
 - [Useful settings during Webex meetings](#Useful-settings-during-Webex-meetings)
 - [Camera Settings Using Webex Control Panel](#Camera-Settings-Using-Webex-Control-Panel)
 - [Additional Webex Control Panel info](#Additional-Webex-Control-Panel-info)
 - [Breakout Rooms](#Breakout-Rooms)
 - [Polling](#Polling)
+- [Editing Recordings](https://help.webex.com/en-us/0zbv00/Trim-the-Beginning-and-End-of-Your-Webex-Meetings-or-Events-Recording)
 - [Office Hours](#Office-Hours)
 - [Additional Webex info](#Additional-Webex-info)
+- [Training Session Videos - Recorded](#Training-Sessions)
 - [TODOS](#TODOS)
 
 
 ## Adding Webex to Pilot
+
+- [WSU CTL Documentation](http://blogs.wright.edu/learn/pilot/2020/11/30/6518/)
 
 Add Webex to Pilot:
 1. Log in to [pilot.wright.edu](pilot.wright.edu)
@@ -29,6 +34,8 @@ Add Webex to Pilot:
 - [Back to Top](#Instructor-Guide-to-Webex)
 
 ## Setup Webex Sessions
+
+- [WSU CTL Documentation](http://blogs.wright.edu/learn/pilot/2020/11/30/6518/)
 
 1. When you first open Webex from your link added to the module you made in Content, you will need to setup the features you want to enable.
     - ![Webex setup](webex/webex-setup.PNG)
@@ -111,6 +118,11 @@ Add Webex to Pilot:
 
 - [Back to Top](#Instructor-Guide-to-Webex)
 
+## Using Yeti microphone
+**Note: This is for Russ 152C and Oelman Hall 320 - instructor station has microphone and boom arm**
+
+- [Back to Top](#Instructor-Guide-to-Webex)
+
 ## Useful settings during Webex meetings
 
 - Disable participant leave / join dings
@@ -122,6 +134,11 @@ Add Webex to Pilot:
 - Control student microphone usage
     - Once session has started, go to the "Participant" menu
     - Here you can choose to "Mute All", "Unmute All", and "Allow Attendees to Unmute Themselves"
+- Turn on chat notification sounds
+    - In the Webex menu (you may need to turn off sharing), select "Edit", then select "Preferences"
+    - "When recieving a message" options:
+    - "Play the selected sound" checkbox - make sure the box is checked
+    - ![Webex enable chat sounds](webex/chat-ping-enable.PNG)
 
 - [Back to Top](#Instructor-Guide-to-Webex)
 
@@ -135,6 +152,7 @@ Add Webex to Pilot:
 - [Back to Top](#Instructor-Guide-to-Webex)
 
 ## Breakout Rooms
+- [Webex official documentation](https://help.webex.com/en-us/nft9foq/Webex-Meetings-Create-Breakout-Sessions)
 - Once the meeting has started, select the "..." icon in the bottom row of icons
 - Click the toggle to "Enable Breakout Session" - enabling breakout sessions will open a settings window
 - ![Webex breakout session settings](webex/breakout-options.PNG)
@@ -201,17 +219,17 @@ Add Webex to Pilot:
 
 - [Back to Top](#Instructor-Guide-to-Webex)
 
+## Training sessions
+
+- [WSU CaTS hosted 8/20/21](https://www.youtube.com/watch?v=c7k0BWdZTFk&ab_channel=WSUCenterforTeachingandLearning)
+
+- [Back to Top](#Instructor-Guide-to-Webex)
+
 ## TODOS:
 - TODO: hook yeti to BYOD
 - TODO: verify ceiling mic ID
 - TODO: check what students do after reserving a time in Office Hours
 - TODO: add instructions for seeing class cam (confirmation)
-- TODO: turn on chat ding
-    - Edit
-    - Preferences
-    - When recieving a message
-    - "Play the selected sound" checkbox
-    - ![Webex enable chat sounds](webex/chat-ping-enable.PNG)
 - TODO: wright.webex.com
 - TODO: do office hours sync across courses?
 - TODO: browser based webex capabilities (linux test)
