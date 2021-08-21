@@ -32,3 +32,13 @@
     2. Click the session name you want to watch
     3. Late in the semester (lots of recordings) you may need to switch pages to access older recordings
     4. If you need to download the recording and cannot, please contact the faculty member
+
+## Course is using Panopto
+- Log in to Pilot and select the course
+- Panopto will be a link located in the Content section in a module
+- Accessing Recordings
+    1. Click in to Panopto
+    2. Click on video to start watching.
+    3. You can make notes unique to the video - these notes stay private to you
+        - It's propbably more convenient to use other tools - I'm just a document, not an order ;)
+    4. If you need to download the recording and cannot, please contact the faculty member
