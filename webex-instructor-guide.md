@@ -231,8 +231,10 @@ Add Webex to Pilot:
 - [Back to Top](#Instructor-Guide-to-Webex)
 
 ## TODOS:
-- TODO: hook yeti to BYOD
 - TODO: verify ceiling mic ID
+    - Mics - USB Audio Device / Shure Digital - These are the two mic types
+        -  USB video adaptor is wrong
+    - Cameras - INOGENI HD2USB3
 - TODO: check what students do after reserving a time in Office Hours
 - TODO: add instructions for seeing class cam (confirmation)
 - TODO: wright.webex.com
