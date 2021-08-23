@@ -11,6 +11,7 @@
 - [Breakout Rooms](#Breakout-Rooms)
 - [Polling](#Polling)
 - [Editing Recordings](https://help.webex.com/en-us/0zbv00/Trim-the-Beginning-and-End-of-Your-Webex-Meetings-or-Events-Recording)
+- [Deleting Recordings](#Deleting-Recordings)
 - [Office Hours](#Office-Hours)
 - [Additional Webex info](#Additional-Webex-info)
 - [Training Session Videos - Recorded](#Training-Sessions)
@@ -195,6 +196,18 @@ Add Webex to Pilot:
 
 - [Back to Top](#Instructor-Guide-to-Webex)
 
+## Deleting Recordings
+**Note** This method tested as of 8/22 - we are hoping for something better...
+
+- Go to [wright.webex.com](wright.webex.com)
+- In the sidebar, select "Recordings"
+- Click the checkmark for the recording(s) you would like to delete
+    - Alternatively, you can select the three horizontal dots and select "Delete"
+- Select Delete on the upper right
+- This will remove the recording
+- The name of the session will still be listed in Pilot, but the recording will no longer be accessible when students click through.
+
+- [Back to Top](#Instructor-Guide-to-Webex)
 
 ## Office Hours
 **This section is for the Office Hours tool via Webex.  You can still set up other methods, like using your personal Webex room**
