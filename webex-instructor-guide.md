@@ -63,7 +63,7 @@ Add Webex to Pilot:
 3. "Start" the meeting to launch Webex
 4. "Start meeting" once ready
 5. If using the **in room instructor station**, you should now be connected to the room microphone, Cisco control panel (we're getting there) and the in-room camera.
-    - If you want video to show for recording, you need to stop sharing content (screenshare / whiteboard / etc.)
+    - If you want the camera view to show for recording, you need to stop sharing content (screenshare / whiteboard / etc.)
 6. If using **your own device** (laptop), you will need to connect to the room
     - Select the "..." icon in the bottom row of icons
     - Click "Connect to a Video System"
@@ -71,7 +71,7 @@ Add Webex to Pilot:
     - A window will open where you can select which room to connect to
     - ![Webex connect to device](webex/connect-to-device.PNG)
     - You should now be connected to the room microphone, Cisco control panel (we're getting there) and the in-room camera.
-    - If you want video to show for recording, you need to stop sharing content (screenshare / whiteboard / etc.)
+    - If you want the camera view to show for recording, you need to stop sharing content (screenshare / whiteboard / etc.)
 7. You can choose to share your screen, which screen to share, or specific applications to share.
     - ![Webex share](webex/share-button.PNG)
 8. You can now monitor text chat within Webex.  Depending on your configuration (see additional webex info), students who attend remotely can unmute their microphones and ask questions over the in-room speakers.
