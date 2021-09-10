@@ -3,9 +3,9 @@
 ## Table of Contents
 
 * [PC setup guide](pc-setup/README.md) for typical CS software installation
-* [Insructor teaching guides]() for remote teaching tools
+* [Insructor teaching guides](https://github.com/wrightedu/remote-learning#i-am-an-instructor-using) for remote teaching tools
 * [Student learning guides](student-guide.md) for remote learning tools
-* [Department Classroom Equipment]() lists and info on equipment in classrooms
+* [Department Classroom Equipment](https://github.com/wrightedu/remote-learning#classroom-equipment) lists and info on equipment in classrooms
 * [University classrooms w/photos](https://www.wright.edu/registrar/classroom-features-photos) 
 
 ## I am an instructor using
