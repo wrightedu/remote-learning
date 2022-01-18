@@ -1,6 +1,6 @@
 # Instructor Guide to Webex
 
-- [Setup Webex in Pilot](#Setup-Webex-in-Pilot)
+- [Adding Webex to Pilot](#Adding-Webex-to-Pilot)
 - [Setup Webex Sessions](#Setup-Webex-Sessions)
 - [Using Webex with in-room equipment](#Using-Webex-with-in-room-equipment)
 - [Using Webex on any device](#Using-Webex-on-any-device)
